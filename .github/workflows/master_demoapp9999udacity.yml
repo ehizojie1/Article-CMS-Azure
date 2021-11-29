@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'demoapp9999udacity'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_858CB584A3A644F29ED9E8207B9E3B78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F313A22F586B48CEABFF000BA8045EF1 }}
